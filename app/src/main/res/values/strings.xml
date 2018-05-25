@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmDatabase</string>
+    <string name="add_record_field_empty_msg">Please Filed All Record!</string>
+</resources>
